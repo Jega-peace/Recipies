@@ -1,0 +1,44 @@
+input[type="text"],input[type="number"] {
+    width: 100%;
+    padding:  12px 20px;
+    margin: 8px 0;
+    border: 2px solid rgb(124, 124, 124);
+    border-radius: 30px;
+    outline: none;
+}  
+button {
+    background-color:rgb(64, 187, 64);
+    font-size: 18px;
+    font-style: italic;
+    color: white;
+    border: none;
+    width: 80px;
+    height:40px;
+    border-radius: 30px;
+    cursor: pointer;
+    margin-left: 90px;
+    margin-top:20px;
+}
+button:hover {
+    background-color:rgb(64, 163, 64);
+}
+#registration-form {
+    max-width: 400px;
+   margin: 0 auto;
+   }
+label
+{
+font-size:25px;
+font-style: italic;
+}
+
+
+h1{
+background-color: rgb(105, 204, 105);
+border-radius:20px;
+border:3px solid black;
+width:600px;
+height:50px;
+color:white;
+padding-top:5px;
+}   
